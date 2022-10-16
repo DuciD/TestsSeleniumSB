@@ -1,0 +1,3510 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T08:38:02.976543700Z</date>
+  <millis>1665736682976</millis>
+  <nanos>543700</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T08:38:03.001343700Z</date>
+  <millis>1665736683001</millis>
+  <nanos>343700</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T08:44:47.162655700Z</date>
+  <millis>1665737087162</millis>
+  <nanos>655700</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T08:44:47.184478600Z</date>
+  <millis>1665737087184</millis>
+  <nanos>478600</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T08:46:27.237779300Z</date>
+  <millis>1665737187237</millis>
+  <nanos>779300</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T08:46:27.257619200Z</date>
+  <millis>1665737187257</millis>
+  <nanos>619200</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T09:53:30.172438200Z</date>
+  <millis>1665741210172</millis>
+  <nanos>438200</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T09:53:30.201702200Z</date>
+  <millis>1665741210201</millis>
+  <nanos>702200</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T09:55:26.818940900Z</date>
+  <millis>1665741326818</millis>
+  <nanos>940900</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T09:55:26.838286Z</date>
+  <millis>1665741326838</millis>
+  <nanos>286000</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T10:12:19.143188800Z</date>
+  <millis>1665742339143</millis>
+  <nanos>188800</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T10:12:19.163028900Z</date>
+  <millis>1665742339163</millis>
+  <nanos>28900</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T10:30:58.937768Z</date>
+  <millis>1665743458937</millis>
+  <nanos>768000</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T10:30:58.958599700Z</date>
+  <millis>1665743458958</millis>
+  <nanos>599700</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T10:46:34.763210900Z</date>
+  <millis>1665744394763</millis>
+  <nanos>210900</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T10:46:34.808347500Z</date>
+  <millis>1665744394808</millis>
+  <nanos>347500</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T10:54:26.210696500Z</date>
+  <millis>1665744866210</millis>
+  <nanos>696500</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T10:54:26.230536800Z</date>
+  <millis>1665744866230</millis>
+  <nanos>536800</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T10:56:27.762804Z</date>
+  <millis>1665744987762</millis>
+  <nanos>804000</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T10:56:27.791076200Z</date>
+  <millis>1665744987791</millis>
+  <nanos>76200</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T10:56:56.020304100Z</date>
+  <millis>1665745016020</millis>
+  <nanos>304100</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T10:56:56.041632800Z</date>
+  <millis>1665745016041</millis>
+  <nanos>632800</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T10:58:44.907366500Z</date>
+  <millis>1665745124907</millis>
+  <nanos>366500</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T10:58:44.926709600Z</date>
+  <millis>1665745124926</millis>
+  <nanos>709600</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T11:03:18.033159400Z</date>
+  <millis>1665745398033</millis>
+  <nanos>159400</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T11:03:18.053495300Z</date>
+  <millis>1665745398053</millis>
+  <nanos>495300</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T11:04:25.425990Z</date>
+  <millis>1665745465425</millis>
+  <nanos>990000</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T11:04:25.445333700Z</date>
+  <millis>1665745465445</millis>
+  <nanos>333700</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T11:09:29.264210200Z</date>
+  <millis>1665745769264</millis>
+  <nanos>210200</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T11:09:29.283554400Z</date>
+  <millis>1665745769283</millis>
+  <nanos>554400</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T11:10:37.020161600Z</date>
+  <millis>1665745837020</millis>
+  <nanos>161600</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T11:10:37.039504800Z</date>
+  <millis>1665745837039</millis>
+  <nanos>504800</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T11:12:04.943899300Z</date>
+  <millis>1665745924943</millis>
+  <nanos>899300</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T11:12:04.965225800Z</date>
+  <millis>1665745924965</millis>
+  <nanos>225800</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T11:16:52.991448Z</date>
+  <millis>1665746212991</millis>
+  <nanos>448000</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T11:16:53.011783400Z</date>
+  <millis>1665746213011</millis>
+  <nanos>783400</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T11:25:58.887782400Z</date>
+  <millis>1665746758887</millis>
+  <nanos>782400</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T11:25:58.907622200Z</date>
+  <millis>1665746758907</millis>
+  <nanos>622200</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T11:26:59.384925600Z</date>
+  <millis>1665746819384</millis>
+  <nanos>925600</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T11:26:59.408733800Z</date>
+  <millis>1665746819408</millis>
+  <nanos>733800</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T11:27:42.306686300Z</date>
+  <millis>1665746862306</millis>
+  <nanos>686300</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T11:27:42.327022700Z</date>
+  <millis>1665746862327</millis>
+  <nanos>22700</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T11:28:11.377774900Z</date>
+  <millis>1665746891377</millis>
+  <nanos>774900</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T11:28:11.397118200Z</date>
+  <millis>1665746891397</millis>
+  <nanos>118200</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T12:38:35.039938200Z</date>
+  <millis>1665751115039</millis>
+  <nanos>938200</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T12:38:35.073170300Z</date>
+  <millis>1665751115073</millis>
+  <nanos>170300</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T13:24:14.524661900Z</date>
+  <millis>1665753854524</millis>
+  <nanos>661900</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T13:24:14.564838300Z</date>
+  <millis>1665753854564</millis>
+  <nanos>838300</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T13:27:40.733636300Z</date>
+  <millis>1665754060733</millis>
+  <nanos>636300</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T13:27:40.753972Z</date>
+  <millis>1665754060753</millis>
+  <nanos>972000</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T13:47:45.481942100Z</date>
+  <millis>1665755265481</millis>
+  <nanos>942100</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T13:47:45.521622400Z</date>
+  <millis>1665755265521</millis>
+  <nanos>622400</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T14:26:04.453264600Z</date>
+  <millis>1665757564453</millis>
+  <nanos>264600</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T14:26:04.472608700Z</date>
+  <millis>1665757564472</millis>
+  <nanos>608700</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T14:28:01.275673300Z</date>
+  <millis>1665757681275</millis>
+  <nanos>673300</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T14:28:01.332712600Z</date>
+  <millis>1665757681332</millis>
+  <nanos>712600</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T14:31:04.695131700Z</date>
+  <millis>1665757864695</millis>
+  <nanos>131700</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T14:31:04.714971Z</date>
+  <millis>1665757864714</millis>
+  <nanos>971000</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T14:32:43.773850800Z</date>
+  <millis>1665757963773</millis>
+  <nanos>850800</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T14:32:43.794188800Z</date>
+  <millis>1665757963794</millis>
+  <nanos>188800</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T14:40:04.466845300Z</date>
+  <millis>1665758404466</millis>
+  <nanos>845300</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T14:40:04.487677100Z</date>
+  <millis>1665758404487</millis>
+  <nanos>677100</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T14:51:05.205506300Z</date>
+  <millis>1665759065205</millis>
+  <nanos>506300</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T14:51:05.244690100Z</date>
+  <millis>1665759065244</millis>
+  <nanos>690100</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T16:00:58.856738500Z</date>
+  <millis>1665763258856</millis>
+  <nanos>738500</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T16:00:58.894434200Z</date>
+  <millis>1665763258894</millis>
+  <nanos>434200</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T16:03:09.225340300Z</date>
+  <millis>1665763389225</millis>
+  <nanos>340300</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T16:03:09.246172200Z</date>
+  <millis>1665763389246</millis>
+  <nanos>172200</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T16:30:43.759654800Z</date>
+  <millis>1665765043759</millis>
+  <nanos>654800</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T16:30:43.779494900Z</date>
+  <millis>1665765043779</millis>
+  <nanos>494900</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T17:16:02.434309100Z</date>
+  <millis>1665767762434</millis>
+  <nanos>309100</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T17:16:02.467540200Z</date>
+  <millis>1665767762467</millis>
+  <nanos>540200</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T17:17:34.778961200Z</date>
+  <millis>1665767854778</millis>
+  <nanos>961200</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T17:17:34.798800700Z</date>
+  <millis>1665767854798</millis>
+  <nanos>800700</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T17:18:34.827441400Z</date>
+  <millis>1665767914827</millis>
+  <nanos>441400</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T17:18:34.847280700Z</date>
+  <millis>1665767914847</millis>
+  <nanos>280700</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T17:19:17.604803200Z</date>
+  <millis>1665767957604</millis>
+  <nanos>803200</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T17:19:17.654402700Z</date>
+  <millis>1665767957654</millis>
+  <nanos>402700</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T17:20:24.604947200Z</date>
+  <millis>1665768024604</millis>
+  <nanos>947200</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T17:20:24.633714500Z</date>
+  <millis>1665768024633</millis>
+  <nanos>714500</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T17:32:27.803555500Z</date>
+  <millis>1665768747803</millis>
+  <nanos>555500</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T17:32:27.861090700Z</date>
+  <millis>1665768747861</millis>
+  <nanos>90700</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T17:37:47.862830600Z</date>
+  <millis>1665769067862</millis>
+  <nanos>830600</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T17:37:47.950117600Z</date>
+  <millis>1665769067950</millis>
+  <nanos>117600</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T17:41:20.939860900Z</date>
+  <millis>1665769280939</millis>
+  <nanos>860900</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T17:41:20.968129700Z</date>
+  <millis>1665769280968</millis>
+  <nanos>129700</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T18:10:13.510215200Z</date>
+  <millis>1665771013510</millis>
+  <nanos>215200</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T18:10:13.575680Z</date>
+  <millis>1665771013575</millis>
+  <nanos>680000</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T18:10:52.699997300Z</date>
+  <millis>1665771052699</millis>
+  <nanos>997300</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T18:10:52.716363300Z</date>
+  <millis>1665771052716</millis>
+  <nanos>363300</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T18:15:38.855605Z</date>
+  <millis>1665771338855</millis>
+  <nanos>605000</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T18:15:38.872467400Z</date>
+  <millis>1665771338872</millis>
+  <nanos>467400</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T18:16:37.305513600Z</date>
+  <millis>1665771397305</millis>
+  <nanos>513600</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T18:16:37.328327Z</date>
+  <millis>1665771397328</millis>
+  <nanos>327000</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T18:20:01.567877400Z</date>
+  <millis>1665771601567</millis>
+  <nanos>877400</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T18:20:01.588211600Z</date>
+  <millis>1665771601588</millis>
+  <nanos>211600</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T18:20:38.346362500Z</date>
+  <millis>1665771638346</millis>
+  <nanos>362500</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T18:20:38.374631300Z</date>
+  <millis>1665771638374</millis>
+  <nanos>631300</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T18:21:10.570112800Z</date>
+  <millis>1665771670570</millis>
+  <nanos>112800</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T18:21:10.588957800Z</date>
+  <millis>1665771670588</millis>
+  <nanos>957800</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T18:27:01.458555800Z</date>
+  <millis>1665772021458</millis>
+  <nanos>555800</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T18:27:01.478394200Z</date>
+  <millis>1665772021478</millis>
+  <nanos>394200</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T18:27:43.999952200Z</date>
+  <millis>1665772063999</millis>
+  <nanos>952200</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T18:27:44.047067300Z</date>
+  <millis>1665772064047</millis>
+  <nanos>67300</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T18:28:22.704697500Z</date>
+  <millis>1665772102704</millis>
+  <nanos>697500</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T18:28:22.736438200Z</date>
+  <millis>1665772102736</millis>
+  <nanos>438200</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T18:33:58.980809800Z</date>
+  <millis>1665772438980</millis>
+  <nanos>809800</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T18:33:58.997176600Z</date>
+  <millis>1665772438997</millis>
+  <nanos>176600</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T18:35:29.054932600Z</date>
+  <millis>1665772529054</millis>
+  <nanos>932600</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T18:35:29.087170400Z</date>
+  <millis>1665772529087</millis>
+  <nanos>170400</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T18:36:54.710721100Z</date>
+  <millis>1665772614710</millis>
+  <nanos>721100</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T18:36:54.760813900Z</date>
+  <millis>1665772614760</millis>
+  <nanos>813900</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T18:37:27.232289900Z</date>
+  <millis>1665772647232</millis>
+  <nanos>289900</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T18:37:27.255601300Z</date>
+  <millis>1665772647255</millis>
+  <nanos>601300</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T18:42:27.979633800Z</date>
+  <millis>1665772947979</millis>
+  <nanos>633800</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T18:42:28.003440Z</date>
+  <millis>1665772948003</millis>
+  <nanos>440000</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T18:44:04.523221600Z</date>
+  <millis>1665773044523</millis>
+  <nanos>221600</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T18:44:04.560915500Z</date>
+  <millis>1665773044560</millis>
+  <nanos>915500</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T18:44:55.115856400Z</date>
+  <millis>1665773095115</millis>
+  <nanos>856400</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T18:44:55.182812100Z</date>
+  <millis>1665773095182</millis>
+  <nanos>812100</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T18:46:10.193405600Z</date>
+  <millis>1665773170193</millis>
+  <nanos>405600</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T18:46:10.216716300Z</date>
+  <millis>1665773170216</millis>
+  <nanos>716300</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-14T18:46:51.725791Z</date>
+  <millis>1665773211725</millis>
+  <nanos>791000</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-14T18:46:51.742654100Z</date>
+  <millis>1665773211742</millis>
+  <nanos>654100</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T17:38:03.344496100Z</date>
+  <millis>1665855483344</millis>
+  <nanos>496100</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T17:38:03.424848300Z</date>
+  <millis>1665855483424</millis>
+  <nanos>848300</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T17:52:23.164014100Z</date>
+  <millis>1665856343164</millis>
+  <nanos>14100</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T17:52:23.211630300Z</date>
+  <millis>1665856343211</millis>
+  <nanos>630300</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T18:34:59.308439900Z</date>
+  <millis>1665858899308</millis>
+  <nanos>439900</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T18:34:59.346135500Z</date>
+  <millis>1665858899346</millis>
+  <nanos>135500</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T18:36:03.588684300Z</date>
+  <millis>1665858963588</millis>
+  <nanos>684300</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T18:36:03.616958500Z</date>
+  <millis>1665858963616</millis>
+  <nanos>958500</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T18:45:52.667658900Z</date>
+  <millis>1665859552667</millis>
+  <nanos>658900</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T18:45:52.707339400Z</date>
+  <millis>1665859552707</millis>
+  <nanos>339400</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T18:46:56.221421Z</date>
+  <millis>1665859616221</millis>
+  <nanos>421000</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T18:46:56.241757Z</date>
+  <millis>1665859616241</millis>
+  <nanos>757000</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T18:47:36.250638100Z</date>
+  <millis>1665859656250</millis>
+  <nanos>638100</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T18:47:36.269982Z</date>
+  <millis>1665859656269</millis>
+  <nanos>982000</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T18:49:31.652877700Z</date>
+  <millis>1665859771652</millis>
+  <nanos>877700</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T18:49:31.672718200Z</date>
+  <millis>1665859771672</millis>
+  <nanos>718200</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T18:51:29.000923100Z</date>
+  <millis>1665859889000</millis>
+  <nanos>923100</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T18:51:29.022746800Z</date>
+  <millis>1665859889022</millis>
+  <nanos>746800</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T18:58:49.596810500Z</date>
+  <millis>1665860329596</millis>
+  <nanos>810500</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T18:58:49.616650900Z</date>
+  <millis>1665860329616</millis>
+  <nanos>650900</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T19:00:02.585195100Z</date>
+  <millis>1665860402585</millis>
+  <nanos>195100</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T19:00:02.607018Z</date>
+  <millis>1665860402607</millis>
+  <nanos>18000</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T19:00:41.023238700Z</date>
+  <millis>1665860441023</millis>
+  <nanos>238700</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T19:00:41.043575100Z</date>
+  <millis>1665860441043</millis>
+  <nanos>575100</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T19:01:33.645487300Z</date>
+  <millis>1665860493645</millis>
+  <nanos>487300</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T19:01:33.665823200Z</date>
+  <millis>1665860493665</millis>
+  <nanos>823200</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T19:03:55.651981600Z</date>
+  <millis>1665860635651</millis>
+  <nanos>981600</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T19:03:55.671325300Z</date>
+  <millis>1665860635671</millis>
+  <nanos>325300</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T19:05:47.063366100Z</date>
+  <millis>1665860747063</millis>
+  <nanos>366100</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T19:05:47.083206Z</date>
+  <millis>1665860747083</millis>
+  <nanos>206000</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T19:06:30.373220700Z</date>
+  <millis>1665860790373</millis>
+  <nanos>220700</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T19:06:30.393060Z</date>
+  <millis>1665860790393</millis>
+  <nanos>60000</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T19:07:24.870099700Z</date>
+  <millis>1665860844870</millis>
+  <nanos>99700</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T19:07:24.889939800Z</date>
+  <millis>1665860844889</millis>
+  <nanos>939800</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T19:08:39.418724300Z</date>
+  <millis>1665860919418</millis>
+  <nanos>724300</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T19:08:39.438068400Z</date>
+  <millis>1665860919438</millis>
+  <nanos>68400</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T19:09:08.403753100Z</date>
+  <millis>1665860948403</millis>
+  <nanos>753100</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T19:09:08.423096900Z</date>
+  <millis>1665860948423</millis>
+  <nanos>96900</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T19:10:07.837258600Z</date>
+  <millis>1665861007837</millis>
+  <nanos>258600</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T19:10:07.860570800Z</date>
+  <millis>1665861007860</millis>
+  <nanos>570800</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T19:10:37.407975300Z</date>
+  <millis>1665861037407</millis>
+  <nanos>975300</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T19:10:37.427815300Z</date>
+  <millis>1665861037427</millis>
+  <nanos>815300</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T19:11:05.248108100Z</date>
+  <millis>1665861065248</millis>
+  <nanos>108100</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T19:11:05.267947600Z</date>
+  <millis>1665861065267</millis>
+  <nanos>947600</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T19:13:07.100451100Z</date>
+  <millis>1665861187100</millis>
+  <nanos>451100</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T19:13:07.119795300Z</date>
+  <millis>1665861187119</millis>
+  <nanos>795300</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T19:14:53.813225100Z</date>
+  <millis>1665861293813</millis>
+  <nanos>225100</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T19:14:53.833561Z</date>
+  <millis>1665861293833</millis>
+  <nanos>561000</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T19:15:24.732024600Z</date>
+  <millis>1665861324732</millis>
+  <nanos>24600</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T19:15:24.751864Z</date>
+  <millis>1665861324751</millis>
+  <nanos>864000</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T19:16:07.313434600Z</date>
+  <millis>1665861367313</millis>
+  <nanos>434600</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T19:16:07.335755Z</date>
+  <millis>1665861367335</millis>
+  <nanos>755000</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T19:32:26.346632600Z</date>
+  <millis>1665862346346</millis>
+  <nanos>632600</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T19:32:26.370441Z</date>
+  <millis>1665862346370</millis>
+  <nanos>441000</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T19:34:18.849628500Z</date>
+  <millis>1665862458849</millis>
+  <nanos>628500</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T19:34:18.868972500Z</date>
+  <millis>1665862458868</millis>
+  <nanos>972500</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T19:35:26.524801100Z</date>
+  <millis>1665862526524</millis>
+  <nanos>801100</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T19:35:26.545137100Z</date>
+  <millis>1665862526545</millis>
+  <nanos>137100</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T19:36:24.299803500Z</date>
+  <millis>1665862584299</millis>
+  <nanos>803500</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T19:36:24.320140300Z</date>
+  <millis>1665862584320</millis>
+  <nanos>140300</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T19:38:40.779982900Z</date>
+  <millis>1665862720779</millis>
+  <nanos>982900</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T19:38:40.802302900Z</date>
+  <millis>1665862720802</millis>
+  <nanos>302900</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T19:40:22.172239100Z</date>
+  <millis>1665862822172</millis>
+  <nanos>239100</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T19:40:22.194063Z</date>
+  <millis>1665862822194</millis>
+  <nanos>63000</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T19:40:41.422333900Z</date>
+  <millis>1665862841422</millis>
+  <nanos>333900</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T19:40:41.441182200Z</date>
+  <millis>1665862841441</millis>
+  <nanos>182200</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T19:42:42.154652400Z</date>
+  <millis>1665862962154</millis>
+  <nanos>652400</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T19:42:42.173500300Z</date>
+  <millis>1665862962173</millis>
+  <nanos>500300</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T19:43:04.878816100Z</date>
+  <millis>1665862984878</millis>
+  <nanos>816100</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T19:43:04.898655900Z</date>
+  <millis>1665862984898</millis>
+  <nanos>655900</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T19:43:34.353266500Z</date>
+  <millis>1665863014353</millis>
+  <nanos>266500</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T19:43:34.372113600Z</date>
+  <millis>1665863014372</millis>
+  <nanos>113600</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T19:45:47.194757300Z</date>
+  <millis>1665863147194</millis>
+  <nanos>757300</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T19:45:47.214597100Z</date>
+  <millis>1665863147214</millis>
+  <nanos>597100</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T19:46:17.279898400Z</date>
+  <millis>1665863177279</millis>
+  <nanos>898400</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T19:46:17.299242700Z</date>
+  <millis>1665863177299</millis>
+  <nanos>242700</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T19:46:35.130750900Z</date>
+  <millis>1665863195130</millis>
+  <nanos>750900</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T19:46:35.153567Z</date>
+  <millis>1665863195153</millis>
+  <nanos>567000</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T19:46:53.037467900Z</date>
+  <millis>1665863213037</millis>
+  <nanos>467900</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T19:46:53.056812Z</date>
+  <millis>1665863213056</millis>
+  <nanos>812000</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T19:47:21.798332100Z</date>
+  <millis>1665863241798</millis>
+  <nanos>332100</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T19:47:21.818668400Z</date>
+  <millis>1665863241818</millis>
+  <nanos>668400</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T19:47:39.093243400Z</date>
+  <millis>1665863259093</millis>
+  <nanos>243400</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T19:47:39.118538700Z</date>
+  <millis>1665863259118</millis>
+  <nanos>538700</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T19:47:58.457317800Z</date>
+  <millis>1665863278457</millis>
+  <nanos>317800</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T19:47:58.483108100Z</date>
+  <millis>1665863278483</millis>
+  <nanos>108100</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T19:48:15.359324100Z</date>
+  <millis>1665863295359</millis>
+  <nanos>324100</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T19:48:15.378171100Z</date>
+  <millis>1665863295378</millis>
+  <nanos>171100</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T19:48:32.374515400Z</date>
+  <millis>1665863312374</millis>
+  <nanos>515400</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T19:48:32.393363600Z</date>
+  <millis>1665863312393</millis>
+  <nanos>363600</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T19:49:50.576022900Z</date>
+  <millis>1665863390576</millis>
+  <nanos>22900</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T19:49:50.595862500Z</date>
+  <millis>1665863390595</millis>
+  <nanos>862500</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T19:51:52.235769100Z</date>
+  <millis>1665863512235</millis>
+  <nanos>769100</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T19:51:52.255112900Z</date>
+  <millis>1665863512255</millis>
+  <nanos>112900</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T19:52:10.841593400Z</date>
+  <millis>1665863530841</millis>
+  <nanos>593400</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T19:52:10.861432900Z</date>
+  <millis>1665863530861</millis>
+  <nanos>432900</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T19:52:30.574642300Z</date>
+  <millis>1665863550574</millis>
+  <nanos>642300</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T19:52:30.595474800Z</date>
+  <millis>1665863550595</millis>
+  <nanos>474800</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T19:52:50.589915300Z</date>
+  <millis>1665863570589</millis>
+  <nanos>915300</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T19:52:50.608763200Z</date>
+  <millis>1665863570608</millis>
+  <nanos>763200</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T19:53:40.313973400Z</date>
+  <millis>1665863620313</millis>
+  <nanos>973400</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T19:53:40.333316500Z</date>
+  <millis>1665863620333</millis>
+  <nanos>316500</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T19:57:34.701149900Z</date>
+  <millis>1665863854701</millis>
+  <nanos>149900</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T19:57:34.721485500Z</date>
+  <millis>1665863854721</millis>
+  <nanos>485500</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T20:07:24.644595900Z</date>
+  <millis>1665864444644</millis>
+  <nanos>595900</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T20:07:24.666420100Z</date>
+  <millis>1665864444666</millis>
+  <nanos>420100</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T20:08:49.736152200Z</date>
+  <millis>1665864529736</millis>
+  <nanos>152200</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T20:08:49.754999600Z</date>
+  <millis>1665864529754</millis>
+  <nanos>999600</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T20:12:03.815468100Z</date>
+  <millis>1665864723815</millis>
+  <nanos>468100</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T20:12:03.835804100Z</date>
+  <millis>1665864723835</millis>
+  <nanos>804100</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T20:14:00.391349300Z</date>
+  <millis>1665864840391</millis>
+  <nanos>349300</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T20:14:00.411190100Z</date>
+  <millis>1665864840411</millis>
+  <nanos>190100</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T20:14:28.982159800Z</date>
+  <millis>1665864868982</millis>
+  <nanos>159800</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T20:14:29.005967600Z</date>
+  <millis>1665864869005</millis>
+  <nanos>967600</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T20:15:48.393769800Z</date>
+  <millis>1665864948393</millis>
+  <nanos>769800</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T20:15:48.413114500Z</date>
+  <millis>1665864948413</millis>
+  <nanos>114500</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T21:26:15.872921500Z</date>
+  <millis>1665869175872</millis>
+  <nanos>921500</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T21:26:15.894746Z</date>
+  <millis>1665869175894</millis>
+  <nanos>746000</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T21:27:19.970310800Z</date>
+  <millis>1665869239970</millis>
+  <nanos>310800</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T21:27:19.997094800Z</date>
+  <millis>1665869239997</millis>
+  <nanos>94800</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T21:32:44.769590500Z</date>
+  <millis>1665869564769</millis>
+  <nanos>590500</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T21:32:44.789430100Z</date>
+  <millis>1665869564789</millis>
+  <nanos>430100</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-15T21:39:36.004639900Z</date>
+  <millis>1665869976004</millis>
+  <nanos>639900</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-15T21:39:36.024480700Z</date>
+  <millis>1665869976024</millis>
+  <nanos>480700</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-16T18:10:37.768020500Z</date>
+  <millis>1665943837768</millis>
+  <nanos>20500</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-16T18:10:37.819605200Z</date>
+  <millis>1665943837819</millis>
+  <nanos>605200</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-16T18:20:34.205008300Z</date>
+  <millis>1665944434205</millis>
+  <nanos>8300</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-16T18:20:34.224351900Z</date>
+  <millis>1665944434224</millis>
+  <nanos>351900</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-16T18:32:34.602036400Z</date>
+  <millis>1665945154602</millis>
+  <nanos>36400</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-16T18:32:34.622867900Z</date>
+  <millis>1665945154622</millis>
+  <nanos>867900</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-16T18:35:12.185539300Z</date>
+  <millis>1665945312185</millis>
+  <nanos>539300</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-16T18:35:12.206371Z</date>
+  <millis>1665945312206</millis>
+  <nanos>371000</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-16T18:36:05.396445400Z</date>
+  <millis>1665945365396</millis>
+  <nanos>445400</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-16T18:36:05.417772400Z</date>
+  <millis>1665945365417</millis>
+  <nanos>772400</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-16T18:36:42.137654600Z</date>
+  <millis>1665945402137</millis>
+  <nanos>654600</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-16T18:36:42.156006100Z</date>
+  <millis>1665945402156</millis>
+  <nanos>6100</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
