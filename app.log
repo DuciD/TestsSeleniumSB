@@ -3508,3 +3508,30 @@
   <thread>1</thread>
   <message>Warning message</message>
 </record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-16T21:38:08.449019100Z</date>
+  <millis>1665956288449</millis>
+  <nanos>19100</nanos>
+  <sequence>0</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>INFO</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-10-16T21:38:08.519451800Z</date>
+  <millis>1665956288519</millis>
+  <nanos>451800</nanos>
+  <sequence>1</sequence>
+  <logger>Steps.Hooks</logger>
+  <level>WARNING</level>
+  <class>Steps.Hooks</class>
+  <method>BeforeSteps</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
