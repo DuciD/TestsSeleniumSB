@@ -2,14 +2,18 @@ package Steps;
 
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
+import io.cucumber.java.Scenario;
 import managers.PageObjectManager;
 import managers.WebDriverManager;
-import org.junit.Test;
+import org.apache.commons.io.FileUtils;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 import pageObjects.HomePage;
 import pageObjects.ProductListingPage;
 
+import java.io.File;
 import java.io.IOException;
 import java.net.HttpURLConnection;
 import java.net.URL;
@@ -51,12 +55,12 @@ public class Hooks extends WebDriverManager {
 
 
 
-        // Creating a call to get response code
+        // Checking website URL without using selenium(backend)
         URL url = new URL("http://www.kupujemprodajem.com/");
         HttpURLConnection.setFollowRedirects(false);
         HttpURLConnection huc = (HttpURLConnection) url.openConnection();
         int responseCode = huc.getResponseCode();
-//added exception for code 307 Temporary redirection as it is active at the moment. Library doesn't support such a code in order to make Assertion.
+//added exception for code 307 Temporary redirection as it is active at the moment. Library doesn't support a code 307  that is active at the moment, then alternative method is used
 // If it's 307 or 200 then pass, otherwise fails
         if (responseCode == 307) {
             HttpURLConnection.setFollowRedirects(true);
@@ -75,8 +79,14 @@ public class Hooks extends WebDriverManager {
      homePage = pageObjectManager.getHomePage();
  }
     @After
-    public void tearDown() {
 
+    public void tearDown(Scenario scenario) throws IOException {
+        if (scenario.isFailed()) {
+            TakesScreenshot scrShot =((TakesScreenshot)base.getDriver());
+            File source=scrShot.getScreenshotAs(OutputType.FILE);
+            File destination =new File("image/" + java.time.LocalDate.now() + ".jpg");
+            FileUtils.copyFile(source, destination);
+        }
         base.getDriver().quit();
     }
 }

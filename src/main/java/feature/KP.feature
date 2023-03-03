@@ -1,6 +1,6 @@
-Feature: KupujemProdajem
+Feature: Searching Items
 
-  Scenario: Test project Kupujem Prodajem
+  Scenario: Test project
     Given a user is on Kupujem Prodajem website
     When a user search for drombulje
     Then the list of selected items are displayed

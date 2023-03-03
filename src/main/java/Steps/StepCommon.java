@@ -42,6 +42,7 @@ public class StepCommon{
     By linkSecondpage = By.xpath("//section[@class='Box_box__03Q3_ Pagination_paginationHolder__MeRSk']//ul/li[2]");
 
 
+
     @Given("a user is on Kupujem Prodajem website")
     public void a_user_is_on_kupujem_prodajem_website() throws Exception {
         webDriverManager = new WebDriverManager();
@@ -57,7 +58,7 @@ public class StepCommon{
     @When("a user search for drombulje")
     public void a_user_search_for_drombulje() throws Exception {
         homePage.perform_Search("drombulje");
-
+        homePage.showItemsWithPriceOnly();
     }
 
     @Then("^the list of selected items are displayed$")
@@ -108,7 +109,7 @@ public class StepCommon{
     @Then("^second cheapest item is known$")
     public void second_cheap_item_is_known() throws InterruptedException {
         Thread.sleep(3000);
-        // Checking if nuber of items even/odd and displaying results
+        // Checking if number of items even/odd and displaying results
         if (numOfRows % 2 == 0) {
             homePage.sortCheap();
             // Retrieving second cheapest item

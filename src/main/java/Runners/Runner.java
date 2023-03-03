@@ -6,7 +6,7 @@ import io.cucumber.junit.CucumberOptions;
 
 
 @CucumberOptions(
-        features = "src/main/java/feature/KupujemProdajem.feature",
+        features = "src/main/java/feature/KP.feature",
         glue = {"Steps"}
 )
 

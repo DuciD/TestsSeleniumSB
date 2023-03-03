@@ -19,6 +19,9 @@ public class HomePage {
     By sItem = By.cssSelector("div[id='kp-portal'] button:nth-child(1)");
     By rItem = By.cssSelector("div[id='kp-portal'] button:nth-child(5)");
     By sort = By.cssSelector("div[class='PopUp_root__H7y4T'] button[type='button']");
+    By PriceBtn = By.className("SearchTag_priceTag__fZkiH");
+    By PriceOnly = By.className("Checkbox_label___QfTq");
+    By ApplyFilter = By.cssSelector("button[class='Button_base__Pz8U1 ButtonPrimaryBlue_primaryBlue__Uz5k1']");
 
     public HomePage(WebDriver driver) {
         this.driver = driver;
@@ -87,5 +90,15 @@ public class HomePage {
         sort_button.click();
         WebElement revertList = WebDriverManager.findElement(rItem, 3);
         revertList.click();
+    }
+    public void showItemsWithPriceOnly(){
+        //remove wthout price
+        WebElement priceBtn = WebDriverManager.findElement(PriceBtn,3);
+        priceBtn.click();
+        WebElement priceOnly = WebDriverManager.findElement(PriceOnly,3);
+        priceOnly.click();
+        WebElement applyFilter = WebDriverManager.findElement(ApplyFilter,3);
+        applyFilter.click();
+
     }
 }
